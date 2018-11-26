@@ -1069,3 +1069,50 @@ LogInit: Object subsystem initialized
 [2018.11.26-19.33.21:232][426]LogPlayLevel: Display: Destroying online subsystem :Context_34
 [2018.11.26-19.33.22:202][433]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/botCharacter.botCharacter
 [2018.11.26-19.33.36:154][720]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Blueprints/Behavior/botTree.botTree
+[2018.11.26-19.35.08:386][919]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Blueprints/Behavior/SkeleDefaultBT.SkeleDefaultBT
+[2018.11.26-19.35.43:425][991]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Behavior/BTD_botUpdateRoute.BTD_botUpdateRoute
+[2018.11.26-19.36.05:937][603]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Behavior/BTT_botNextRoute.BTT_botNextRoute
+[2018.11.26-19.37.13:221][365]LogBlueprint: Warning: [Compiler SkeleMoveSpot] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.11.26-19.37.13:231][365]LogBlueprint: Warning: [Compiler SkeleMoveSpot] [3035.44] Compile of SkeleMoveSpot successful, but with 1 Warning(s) [in 35 ms] (/Game/Blueprints/Behavior/SkeleMoveSpot.SkeleMoveSpot)
+[2018.11.26-19.37.13:282][365]LogBlueprint: Warning: [Compiler SkeleMoveSpot] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.11.26-19.37.13:289][365]LogBlueprint: Warning: [Compiler SkeleMoveSpot] [3035.50] Compile of SkeleMoveSpot successful, but with 1 Warning(s) [in 35 ms] (/Game/Blueprints/Behavior/SkeleMoveSpot.SkeleMoveSpot)
+[2018.11.26-19.37.13:359][365]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/Behavior/SkeleMoveSpot.
+[2018.11.26-19.37.15:105][416]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Behavior/SkeleMoveSpot.SkeleMoveSpot
+[2018.11.26-19.40.32:869][396]LogSavePackage: Moving '../../../../../../Users/Brenden/Desktop/Test2/Saved/ThirdPersonExampleMap_Auto390DC513E4947C46A254DE5BE0AC4069A.tmp' to '../../../../../../Users/Brenden/Desktop/Test2/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2018.11.26-19.40.32:913][396]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/ThirdPersonExampleMap' took 0.900
+[2018.11.26-19.40.32:913][396]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.900
+[2018.11.26-19.40.32:922][396]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/SkelemanDefault] ([1] browsable assets)...
+[2018.11.26-19.40.33:103][396]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/SkelemanDefault.SkelemanDefault]
+[2018.11.26-19.40.33:103][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SkelemanDefault]
+[2018.11.26-19.40.33:243][396]LogSavePackage: Moving '../../../../../../Users/Brenden/Desktop/Test2/Saved/SkelemanDefault_Auto37F809D2F40548738E4653CA65B13605E.tmp' to '../../../../../../Users/Brenden/Desktop/Test2/Saved/Autosaves/Game/Blueprints/SkelemanDefault_Auto3.uasset'
+[2018.11.26-19.40.33:289][396]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/DefaultSkeleman] ([3] browsable assets)...
+[2018.11.26-19.40.33:289][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DefaultSkeleman]
+[2018.11.26-19.40.33:343][396]LogSavePackage: Moving '../../../../../../Users/Brenden/Desktop/Test2/Saved/DefaultSkeleman_Auto3DB100C5B490889D6ED832CA0B6B3484E.tmp' to '../../../../../../Users/Brenden/Desktop/Test2/Saved/Autosaves/Game/Blueprints/DefaultSkeleman_Auto3.uasset'
+[2018.11.26-19.40.33:368][396]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Behavior/SkeleDefaultBT] ([1] browsable assets)...
+[2018.11.26-19.40.33:368][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Behavior/SkeleDefaultBT]
+[2018.11.26-19.40.33:402][396]LogSavePackage: Moving '../../../../../../Users/Brenden/Desktop/Test2/Saved/SkeleDefaultBT_Auto3268ADC024FC187318F197FA109D43091.tmp' to '../../../../../../Users/Brenden/Desktop/Test2/Saved/Autosaves/Game/Blueprints/Behavior/SkeleDefaultBT_Auto3.uasset'
+[2018.11.26-19.40.33:408][396]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Behavior/SkeleMoveSpot] ([1] browsable assets)...
+[2018.11.26-19.40.33:408][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Behavior/SkeleMoveSpot]
+[2018.11.26-19.40.33:494][396]LogSavePackage: Moving '../../../../../../Users/Brenden/Desktop/Test2/Saved/SkeleMoveSpot_Auto38963C2A54E5C1BF801C9669855DC2F97.tmp' to '../../../../../../Users/Brenden/Desktop/Test2/Saved/Autosaves/Game/Blueprints/Behavior/SkeleMoveSpot_Auto3.uasset'
+[2018.11.26-19.40.33:498][396]LogFileHelpers: Auto-saving content packages took 0.579
+[2018.11.26-19.44.14:963][544]BlueprintLog: New page: Compile SkeleMoveSpot
+[2018.11.26-19.44.27:035][881]BlueprintLog: New page: Compile SkeleMoveSpot
+[2018.11.26-19.45.09:793][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Behavior/SkeleMoveSpot" FILE="../../../../../../Users/Brenden/Desktop/Test2/Content/Blueprints/Behavior/SkeleMoveSpot.uasset" SILENT=true
+[2018.11.26-19.45.09:942][194]LogSavePackage: Moving '../../../../../../Users/Brenden/Desktop/Test2/Saved/SkeleMoveSpot1F34766241E2F5B7F79ABDA96884475B.tmp' to '../../../../../../Users/Brenden/Desktop/Test2/Content/Blueprints/Behavior/SkeleMoveSpot.uasset'
+[2018.11.26-19.45.10:062][196]LogPackageName: SearchForPackageOnDisk took   0.001s to resolve /Game/Blueprints/Behavior/SkeleMoveSpot.
+[2018.11.26-19.46.50:226][559]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.26-19.50.34:287][381]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/ThirdPersonExampleMap' took 0.094
+[2018.11.26-19.50.34:290][381]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Behavior/SkeleDefaultBT] ([1] browsable assets)...
+[2018.11.26-19.50.34:290][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Behavior/SkeleDefaultBT]
+[2018.11.26-19.50.34:321][381]LogSavePackage: Moving '../../../../../../Users/Brenden/Desktop/Test2/Saved/SkeleDefaultBT_Auto4D844C80C45B37DD9014262B6734C53CE.tmp' to '../../../../../../Users/Brenden/Desktop/Test2/Saved/Autosaves/Game/Blueprints/Behavior/SkeleDefaultBT_Auto4.uasset'
+[2018.11.26-19.50.34:324][381]LogFileHelpers: Auto-saving content packages took 0.035
+[2018.11.26-19.57.28:355][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap" FILE="../../../../../../Users/Brenden/Desktop/Test2/Content/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.26-19.57.28:948][834]LogSavePackage: Moving '../../../../../../Users/Brenden/Desktop/Test2/Saved/ThirdPersonExampleMap909FE2904BC52B14FBDADD9051A4527F.tmp' to '../../../../../../Users/Brenden/Desktop/Test2/Content/Maps/ThirdPersonExampleMap.umap'
+[2018.11.26-19.57.29:048][834]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.772
+[2018.11.26-19.57.29:056][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SkelemanDefault" FILE="../../../../../../Users/Brenden/Desktop/Test2/Content/Blueprints/SkelemanDefault.uasset" SILENT=true
+[2018.11.26-19.57.29:127][834]LogSavePackage: Moving '../../../../../../Users/Brenden/Desktop/Test2/Saved/SkelemanDefaultE78372ED40C8EDAE3DDFF9A0C9BF4ECE.tmp' to '../../../../../../Users/Brenden/Desktop/Test2/Content/Blueprints/SkelemanDefault.uasset'
+[2018.11.26-19.57.29:147][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DefaultSkeleman" FILE="../../../../../../Users/Brenden/Desktop/Test2/Content/Blueprints/DefaultSkeleman.uasset" SILENT=true
+[2018.11.26-19.57.29:180][834]LogSavePackage: Moving '../../../../../../Users/Brenden/Desktop/Test2/Saved/DefaultSkeleman13983FDF4E24971D64111580EC3A89F4.tmp' to '../../../../../../Users/Brenden/Desktop/Test2/Content/Blueprints/DefaultSkeleman.uasset'
+[2018.11.26-19.57.29:201][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Behavior/SkeleDefaultBT" FILE="../../../../../../Users/Brenden/Desktop/Test2/Content/Blueprints/Behavior/SkeleDefaultBT.uasset" SILENT=true
+[2018.11.26-19.57.29:339][834]LogSavePackage: Moving '../../../../../../Users/Brenden/Desktop/Test2/Saved/SkeleDefaultBTA063C29D4B04880DD697149D4BF78804.tmp' to '../../../../../../Users/Brenden/Desktop/Test2/Content/Blueprints/Behavior/SkeleDefaultBT.uasset'
+[2018.11.26-19.57.29:398][835]LogPackageName: SearchForPackageOnDisk took   0.001s to resolve /Game/Blueprints/SkelemanDefault.
